@@ -1,4 +1,4 @@
 x = 45
 y = 67
 z = x*y
-print(z)
+print("addition successful")
